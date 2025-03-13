@@ -1,5 +1,5 @@
-# 👋 ¡Hola! Soy Arthur
-💻 Desarrollador Full Stack | 🚀 Apasionado por la tecnología y la automatización  
+<h1 align="center">👋 ¡Hola! Soy Arthur</h1>
+<h3 align="center">💻 Desarrollador Full Stack | 🚀 Apasionado por la tecnología y la automatización</h3>
 
 ## 🚀 Tecnologías y Herramientas  
 ### 🌐 **Frontend**  
