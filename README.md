@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy [Arthur]  
+# 👋 ¡Hola! Soy Arthur
 💻 Desarrollador Full Stack | 🚀 Apasionado por la tecnología y la automatización  
 
 ## 🚀 Tecnologías y Herramientas  
