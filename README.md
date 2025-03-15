@@ -35,11 +35,15 @@
 
 ## 📫 Contacto  
 <p align="center">
-  <a href="https://linkedin.com/in/arthurmd24">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <a href="https://arthuram24.github.io/Portafolio/">
+    <img src="https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=react&logoColor=white" alt="Portafolio">
   </a>
   <a href="https://github.com/ArthurAM24">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
+  <a href="https://linkedin.com/in/arthurmd24">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 </p>
+
 
